@@ -5,7 +5,7 @@ Unfortuanetly the course is not thought in MySQL but it's in PostgreSQL. I chang
 
 Hope it could be helpful.
 
-1. Run the `1.parch-and-posey.sql` in your MySQL to create the data we'll work with in the upcoming lessons (This file is mdified to run in MySQL).
+1. Run the `1.parch-and-posey.sql` in your MySQL Workbench to create the data we'll work with in the upcoming lessons (This file is modified to run in MySQL).
 2. `2.Udacity_Join.sql` covers topics including Inner, Left and Right Joins.
 3. `3.Udacity_Aggregations.sql` covers everything related to aggregation functions including: SUM, MIN, MAX, AVG, GROUP BY, DISTINCT, HAVING, DATE function and CASE statetment.
 
