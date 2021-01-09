@@ -9,4 +9,5 @@ Hope it could be helpful.
 2. `2.Udacity_Join.sql` covers topics including Inner, Left and Right Joins.
 3. `3.Udacity_Aggregations.sql` covers everything related to aggregation functions including: SUM, MIN, MAX, AVG, GROUP BY, DISTINCT, HAVING, DATE function and CASE statetment.
 4. `4.Udacity_Subqueries & Temporary Tables` goes deep into subqueries also covers temporary tables which is a very clean way of writing subqueries. THIS FILE IS THE MOST IMPORTANT FILE IN THIS REPOSITORY. Section 9.Subquery Mania consists of very good questions and try to solve all of them.
-5. `5: SQL Data Cleaning` covers working with string using functions such as LEFT, RIGHT, CONCAT , DATE_TIME and COALESCE.
+5. `5.SQL Data Cleaning` covers working with string using functions such as LEFT, RIGHT, CONCAT , DATE_TIME and COALESCE. In section 12 of this file, you need to use another SQL dataset which is `sf_crime_data.sql` and it's placed in the main repo.
+6. `6.Udacity_Window Function` talks about window function and complicated analysis. It covers functions such as LAG, LEAD and NTILE.
