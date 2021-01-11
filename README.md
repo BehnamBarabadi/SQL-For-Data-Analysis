@@ -11,3 +11,4 @@ Hope it could be helpful.
 4. `4.Udacity_Subqueries & Temporary Tables` goes deep into subqueries also covers temporary tables which is a very clean way of writing subqueries. THIS FILE IS THE MOST IMPORTANT FILE IN THIS REPOSITORY. Section 9.Subquery Mania consists of very good questions and try to solve all of them.
 5. `5.SQL Data Cleaning` covers working with string using functions such as LEFT, RIGHT, CONCAT , DATE_TIME and COALESCE. In section 12 of this file, you need to use another SQL dataset which is `sf_crime_data.sql` and it's placed in the main repo.
 6. `6.Udacity_Window Function` talks about window function and complicated analysis. It covers functions such as LAG, LEAD and NTILE.
+7. `7.Udacity_Advanced JOINs & Performance Tuning.` covers topics such as OUTERJOINS, JOINS WITH COMPARISSON, SELF-JOINS and UNIONS.
